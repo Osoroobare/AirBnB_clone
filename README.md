@@ -13,7 +13,7 @@ Each task is linked and will help us to:
 * create all classes used for AirBnB (User, State, City, Place…) that inherit from BaseModel
 * create the first abstracted storage engine of the project: File storage.
 * create all unittests to validate all our classes and storage engine
-* This console will allow us to do the following:
+This console will allow help us to do the following:
 * Create a `new object`
 * Retrieve an object from a `file, a database etc…`
 * Do operations on objects (count, compute stats, etc…)
